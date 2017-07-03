@@ -1,0 +1,8 @@
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\林佳潔\plugin_for_vs\1.0\\plugin_for_vs.dll
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\林佳潔\plugin_for_vs\1.0\\plugin_for_vs.pdb
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\林佳潔\plugin_for_vs\1.0\\plugin_for_vs.pkgdef
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\林佳潔\plugin_for_vs\1.0\\extension.vsixmanifest
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\lian\plugin_for_vs\1.0\\plugin_for_vs.dll
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\lian\plugin_for_vs\1.0\\plugin_for_vs.pdb
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\lian\plugin_for_vs\1.0\\plugin_for_vs.pkgdef
+C:\Users\Lin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\lian\plugin_for_vs\1.0\\extension.vsixmanifest
